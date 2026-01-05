@@ -24,7 +24,6 @@ Languages: Arabic (Native), English (Fluent)
 - Published apps on **Google Play** with 700+ downloads and 5-star ratings
 - Experienced with **cloud deployment** (GCP, Cloudflare) and **scalable backends**
 - Specializing in **Data Science, AI, and Deep Learning**
-- 1st Place Winner in **Code Quest Competition** and **AIU Quran Competition 2024**
 
 ---
 
