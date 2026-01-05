@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mansoor Hasan Ali Shokal</h1>
-<h3 align="center">Software Developer | Flutter & Mobile Apps | Backend APIs | Arabic NLP</h3>
+<h3 align="center">Software Developer | Flutter & Mobile Apps | Data Science | AI & Deep Learning</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansoor-shokla-1a9781353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,7 +23,7 @@ Languages: Arabic (Native), English (Fluent)
 - Building and shipping **production mobile & web applications**
 - Published apps on **Google Play** with 700+ downloads and 5-star ratings
 - Experienced with **cloud deployment** (GCP, Cloudflare) and **scalable backends**
-- Passionate about **Arabic NLP** and linguistic technology
+- Specializing in **Data Science, AI, and Deep Learning**
 - 1st Place Winner in **Code Quest Competition** and **AIU Quran Competition 2024**
 
 ---
