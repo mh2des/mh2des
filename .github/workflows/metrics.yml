@@ -1,0 +1,32 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kuala_Lumpur
+          # Personal repos plus every org repo (Assafa-Academy, AlQISC-AIU), public and private
+          repositories_affiliations: owner, organization_member
+          # Indepth mode counts only lines from commits matching these identities,
+          # including the old machine-local email that GitHub never linked to the account
+          commits_authoring: mh2des, mansourhassan783@gmail.com, mansourshakla@gmail.com, mansoor@MacBook-Air-mnswr.local, Mansoor Hasan Ali Shokla
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 45
+          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
