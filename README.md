@@ -189,7 +189,7 @@ Languages: Arabic (Native), English (Fluent)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mh2des&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh2des&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="metrics.languages.svg" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
